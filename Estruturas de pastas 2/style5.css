@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 212, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.foto{
+    border: 5px solid #505050;
+    border-radius: 50%;
+}
+#title, .subtitle, .post_title{
+    color: rgb(70, 67, 67);
+}
